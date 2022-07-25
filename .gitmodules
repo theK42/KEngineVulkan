@@ -2,3 +2,6 @@
 	path = VulkanMemoryAllocator
 	url = git@github.com:GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator.git
 	branch = master
+[submodule "stb"]
+	path = stb
+	url = git@github.com:nothings/stb.git
